@@ -4,6 +4,7 @@ I will be teaching a semester-long machine learning elective honors course for t
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [Python for Data Analysis by Wes McKinney](https://wesmckinney.com/pages/book.html)
 - [Machine Learning For Hackers by Drew Conway & John White](http://shop.oreilly.com/product/0636920018483.do)
+- [Life is Linear by Tim Chartier for the linear algebra projects unit](https://www.maa.org/press/books/when-life-is-linear-from-computer-graphics-to-bracketology)
 
 Some websites that I always find helpful - besides Stack Overflow obviously :) - are:
 - [scikit-learn docs](https://scikit-learn.org/stable/index.html)
