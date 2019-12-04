@@ -1,3 +1,4 @@
+College,Score,Academic Reputation,Selectivity rank (lower = better),SAT,Percent in Top 10 of HS,Acceptance Rate,Fac Resources Rank (lower = better),Percent classes fewer than 20 students,Percentage classes greater than 50 students (lower = better),Fac Student Ratio (lower = better),Percent full time faculty,Graduation Retention rank (lower = better),Freshmen Retention,Financial resources rank (lower = better),Alumni Giving rank
 williams,100,92,4,1420,91,17,3,71,4,7,93,1,97,6,58
 amherst,98,92,5,1425,84,13,7,70,2,9,94,1,98,10,57
 swarthmore,96,91,6,1440,84,15,7,74,2,8,93,4,97,9,46
@@ -20,6 +21,7 @@ colgate,84,83,19,1350,67,29,29,64,2,9,95,14,94,32,40
 smith,84,85,35,1320,61,45,20,66,5,9,97,35,92,21,36
 us_military_academy,83,83,28,1260,58,27,43,67,3,10,95,14,94,35,46
 bates,83,83,28,1340,58,27,43,67,3,10,95,14,94,35,46
+grinnell,83,86,32,,62,51,29,62,0.3,9,91,28,94,27,40
 macalaster,82,83,19,1340,70,35,35,70,1,10,89,28,94,41,39
 bryn_mawr,81,83,39,1315,60,46,27,74,3,8,90,47,92,23,40
 oberlin,81,82,19,1370,68,30,43,70,3,9,96,32,94,37,38
