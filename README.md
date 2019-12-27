@@ -26,7 +26,7 @@ I taught a semester-long machine learning elective honors course for the first t
 | Octoberim 10-14 no classes                   | B                | Regression Project          | Test Train Split And Polynomial Regression Notebooks          |                                                                            |
 | Oct 15                                       | F                | Regression Project          | Regularization, Cross-Validation Notebooks Regression Project              |
 | Oct 16                                       | E                | Regression Project          | Regression Project                                                         |
-| Oct 17                                       | D                | Classification              | Regression Project                                                         |
+| Oct 17                                       | D                | Regression Project              | Regression Project                                                         |
 | Oct 21                                       | B                | Regression Project          | Regression Project                                                         |
 | Oct 22                                       | A                | Classification              | Regression Project                                                         |
 | Oct 23                                       | F                | Classification              | Naïve Bayes Assignment                                                     |
