@@ -12,8 +12,7 @@ I taught a semester-long machine learning elective honors course for the first t
 | Sept 18                                      | E                | Pandas                      | Rollercoaster Project                                                      |
 | Sept 19                                      | D                | GitHub & Blog               | Rollercoaster Project                                                      |
 | Sept 23                                      | B                | Linear Regression           | Blog & Read two ethics articles                                            |
-| Sept 24                                      | A                | Finish Problem Set         |                                                                            |
-| Gradient Descent                             | Problem Set #1-8 |                             |                                                                            |
+| Sept 24                                      | A                | Finish Problem Set         | Gradient Descent                             | Problem Set #1-8 |                             |                                                                            |
 | Sept 25                                      | F                | Gradient Descent            | Watch GD videos                                                            |
 | Sept 26                                      | E                | Gradient Descent            | Python Iteration HW                                                        |
 | Sept 27                                      | D                | Multiple Regression         | Gradient Descent Algorithm HW                                              |
@@ -24,8 +23,7 @@ I taught a semester-long machine learning elective honors course for the first t
 | Oct 4                                        | E                | Regularization              | Syphilis Lab Due                                                           |
 | Oct 7                                        | D                | Regularization              | Cars Problem Set                                                           |
 | Oct 9                                        |                  |                             |                                                                            |
-| Octoberim 10-14 no classes                   | B                | Regression Project          | Test Train Split                                                           |
-| And Polynomial Regression Notebooks          |                  |                             |                                                                            |
+| Octoberim 10-14 no classes                   | B                | Regression Project          | Test Train Split And Polynomial Regression Notebooks          |                                                                            |
 | Oct 15                                       | F                | Regression Project          | Regularization, Cross-Validation Notebooks Regression Project              |
 | Oct 16                                       | E                | Regression Project          | Regression Project                                                         |
 | Oct 17                                       | D                | Classification              | Regression Project                                                         |
