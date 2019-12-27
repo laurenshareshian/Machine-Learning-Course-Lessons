@@ -15,7 +15,7 @@ I taught a semester-long machine learning elective honors course for the first t
 | Sept 24                                      | A                | Linear Regression          | Finish Linear Regression Problem Set |                                                                            |
 | Sept 25                                      | F                | Gradient Descent            | Watch GD videos                                                            |
 | Sept 26                                      | E                | Gradient Descent            | Python Iteration HW                                                        |
-| Sept 27                                      | D                | Multiple Regression         | Gradient Descent Algorithm HW                                              |
+| Sept 27                                      | D                | Gradient Descent         | Gradient Descent Algorithm HW                                              |
 | No HW Weekend                                |                  |                             |                                                                            |
 | Oct 1                                        | B                | Multiple Regression         | Gradient Descent Stochastic Gradient Descent Assignments                  |
 | Oct 2                                        | A                | Multiple Regression         | In class: Multiple Regression Notebook and semilog                         |
