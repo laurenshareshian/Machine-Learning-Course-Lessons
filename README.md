@@ -22,8 +22,8 @@ I taught a semester-long machine learning elective honors course for the first t
 | Oct 3                                        | F                | Multiple Regression         | Hw: Semilog exercise and Categorical Variabes Notebook, In class: Syphilis Lab [link1](https://www.desmos.com/calculator/ntkt0cvxcq) [link2](https://www.desmos.com/calculator/7yeny8lqth) | 
 | Oct 4                                        | E                | Regularization              | Syphilis Lab Due                                                           |
 | Oct 7                                        | D                | Regularization              | Cars Problem Set                                                           |
-| Oct 9                                        |                  |                             |                                                                            |
-| Octoberim 10-14 no classes                   | B                | Regression Project          | Test Train Split And Polynomial Regression Notebooks          |                                                                            |
+| Oct 9                                        | B                | Regression Project          | Test Train Split And Polynomial Regression Notebooks          |                                                                            |
+| Octoberim 10-14 no classes      | | | |                                                                                         |
 | Oct 15                                       | F                | Regression Project          | Regularization, Cross-Validation Notebooks Regression Project              |
 | Oct 16                                       | E                | Regression Project          | Regression Project                                                         |
 | Oct 17                                       | D                | Regression Project              | Regression Project                                                         |
