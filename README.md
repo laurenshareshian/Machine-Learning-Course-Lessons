@@ -43,9 +43,9 @@ I taught a semester-long machine learning elective honors course for the first t
 | Nov 11                                       | F                | Classification              | Classification Project: College Analysis                                   |
 | Nov 12                                       | E                | Classification              | Classification Project: College Analysis                                   |
 | Nov 13                                       | D                | Unsupervised Learning       | K Means Clustering Assignment                                              |
-| Nov 15                                       | B                | Linear Algebra              | K Means Clustering Problem Set                                             |
+| Nov 15                                       | B                | Unsupervised Learning              | K Means Clustering Problem Set                                             |
 | Nov 18                                       | A                | Linear Algebra              | Linear Algebra Packet through Page 4                                       |
-| Nov 19                                       | F                |                             | Linear Algebra HW through Page 8                                           |
+| Nov 19                                       | F                | Linear Algebra                            | Linear Algebra HW through Page 8                                           |
 | Nov 20                                       | E                |                             | 21-1 No school                                                             |
 | Dec 2                                        | F                | Linear Algebra              | Linear Algebra HW finish through page 16                                   |
 | Dec 3                                        | E                | Linear Algebra              | Linear Algebra HW finish through pg. 19                                    |
