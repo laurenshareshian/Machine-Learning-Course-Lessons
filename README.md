@@ -59,7 +59,7 @@ I taught a semester-long machine learning elective honors course for the first t
 | Dec 17                                       | A                | Natural Language Processing | NLP Intro Notebook 1                                                       |
 | Dec 18                                       | F                | Natural Language Processing | NLP Applications Notebook 2                                                |
 | Dec 19                                       | E                | Natural Language Processing | Celebrity Gossip & D3 Visualization Notebook 3                             |
-| Dec 20                                       | D                | Natural Language Processing | Winter Break                                                               |
+| Dec 20                                       | D                |  | Winter Break                                                               |
 | Jan 7                                        | B                | Final Project               | Final Project                                                              |
 | Jan 8                                        | A                | Final Project               | Final Project                                                              |
 | Jan 9                                        | F                | Final Project               | Final Project                                                              |
