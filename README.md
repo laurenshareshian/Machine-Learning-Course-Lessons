@@ -12,23 +12,19 @@ I taught a semester-long machine learning elective honors course for the first t
 | Sept 18                                      | E                | Pandas                      | Rollercoaster Project                                                      |
 | Sept 19                                      | D                | GitHub & Blog               | Rollercoaster Project                                                      |
 | Sept 23                                      | B                | Linear Regression           | Blog & Read two ethics articles                                            |
-| Sept 24                                      | A                | Finish Problem Set/         |                                                                            |
+| Sept 24                                      | A                | Finish Problem Set         |                                                                            |
 | Gradient Descent                             | Problem Set #1-8 |                             |                                                                            |
 | Sept 25                                      | F                | Gradient Descent            | Watch GD videos                                                            |
 | Sept 26                                      | E                | Gradient Descent            | Python Iteration HW                                                        |
 | Sept 27                                      | D                | Multiple Regression         | Gradient Descent Algorithm HW                                              |
 | No HW Weekend                                |                  |                             |                                                                            |
-| Oct 1                                        | B                | Multiple Regression         | Gradient Descent /Stochastic Gradient Descent Assignments                  |
+| Oct 1                                        | B                | Multiple Regression         | Gradient Descent Stochastic Gradient Descent Assignments                  |
 | Oct 2                                        | A                | Multiple Regression         | In class: Multiple Regression Notebook and semilog                         |
-| Oct 3                                        | F                | Multiple Regression         | Hw: Semilog exercise and Categorical Variabes Notebook                     |
-| In class: Syphilis Lab                       |                  |                             |                                                                            |
-| https://www.desmos.com/calculator/ntkt0cvxcq |                  |                             |                                                                            |
-| https://www.desmos.com/calculator/7yeny8lqth |                  |                             |                                                                            |
-|                                              |                  |                             |                                                                            |
+| Oct 3                                        | F                | Multiple Regression         | Hw: Semilog exercise and Categorical Variabes Notebook, In class: Syphilis Lab [link1](https://www.desmos.com/calculator/ntkt0cvxcq) [link2](https://www.desmos.com/calculator/7yeny8lqth) | 
 | Oct 4                                        | E                | Regularization              | Syphilis Lab Due                                                           |
 | Oct 7                                        | D                | Regularization              | Cars Problem Set                                                           |
 | Oct 9                                        |                  |                             |                                                                            |
-| Octoberim 10-14 no classes                   | B                | Regression Project          | Test/Train Split                                                           |
+| Octoberim 10-14 no classes                   | B                | Regression Project          | Test Train Split                                                           |
 | And Polynomial Regression Notebooks          |                  |                             |                                                                            |
 | Oct 15                                       | F                | Regression Project          | Regularization, Cross-Validation Notebooks Regression Project              |
 | Oct 16                                       | E                | Regression Project          | Regression Project                                                         |
@@ -56,8 +52,7 @@ I taught a semester-long machine learning elective honors course for the first t
 | Dec 2                                        | F                | Linear Algebra              | Linear Algebra HW finish through page 16                                   |
 | Dec 3                                        | E                | Linear Algebra              | Linear Algebra HW finish through pg. 19                                    |
 | Dec 4                                        | D                | Linear Algebra              | Linear Algebra HW finish through pg. 20                                    |
-| Dec 6                                        | B                | Linear Algebra              | Linear Algebra HW finish through pg. 24                                    |
-| In class: finish through pg. 28              |                  |                             |                                                                            |
+| Dec 6                                        | B                | Linear Algebra              | Linear Algebra HW finish through pg. 24, In class: finish through pg. 28              |                  |                             |                                                                            |
 | Dec 9                                        | A                | Linear Algebra              | Take Home Test Due                                                         |
 | Dec 10                                       | F                | Linear Algebra              | Finish Linear Algebra packet & Image Compression notebook                  |
 | Dec 11                                       | E                | Recommender Systems         | Curse of Dimensionality & PCA Intro Notebook 0                             |
