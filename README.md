@@ -1,4 +1,83 @@
-I will be teaching a semester-long machine learning elective honors course for the first time at Oregon Episcopal School in the fall of 2019 and I will post course materials as I write them. Some resources that I plan on drawing heavily from include:
+I taught a semester-long machine learning elective honors course for the first time at Oregon Episcopal School in the fall of 2019. Here was the syllabus:
+
+
+| Date                                         | Rotation Day     | Topic                       | Homework                                                                   |
+|----------------------------------------------|------------------|-----------------------------|----------------------------------------------------------------------------|
+| Sept 9                                       | F                | What is Machine Learning?   |                                                                            |
+| Sept 10                                      | E                | Pandas                      | Download Anaconda and Watch Andrew Ng intro videos. Write discussion post. |
+| Sept 11                                      | D                | Pandas                      | Pandas Basics Assignment – Stop before Missing Data                        |
+| Sept 13                                      | B                | Pandas                      | Pandas Basics Assignment - Finish                                          |
+| Sept 16                                      | A                | Pandas                      | Pandas Pregnancy Problem Set                                               |
+| Sept 17                                      | F                | Pandas                      | Rollercoaster Project                                                      |
+| Sept 18                                      | E                | Pandas                      | Rollercoaster Project                                                      |
+| Sept 19                                      | D                | GitHub & Blog               | Rollercoaster Project                                                      |
+| Sept 23                                      | B                | Linear Regression           | Blog & Read two ethics articles                                            |
+| Sept 24                                      | A                | Finish Problem Set/         |                                                                            |
+| Gradient Descent                             | Problem Set #1-8 |                             |                                                                            |
+| Sept 25                                      | F                | Gradient Descent            | Watch GD videos                                                            |
+| Sept 26                                      | E                | Gradient Descent            | Python Iteration HW                                                        |
+| Sept 27                                      | D                | Multiple Regression         | Gradient Descent Algorithm HW                                              |
+| No HW Weekend                                |                  |                             |                                                                            |
+| Oct 1                                        | B                | Multiple Regression         | Gradient Descent /Stochastic Gradient Descent Assignments                  |
+| Oct 2                                        | A                | Multiple Regression         | In class: Multiple Regression Notebook and semilog                         |
+| Oct 3                                        | F                | Multiple Regression         | Hw: Semilog exercise and Categorical Variabes Notebook                     |
+| In class: Syphilis Lab                       |                  |                             |                                                                            |
+| https://www.desmos.com/calculator/ntkt0cvxcq |                  |                             |                                                                            |
+| https://www.desmos.com/calculator/7yeny8lqth |                  |                             |                                                                            |
+|                                              |                  |                             |                                                                            |
+| Oct 4                                        | E                | Regularization              | Syphilis Lab Due                                                           |
+| Oct 7                                        | D                | Regularization              | Cars Problem Set                                                           |
+| Oct 9                                        |                  |                             |                                                                            |
+| Octoberim 10-14 no classes                   | B                | Regression Project          | Test/Train Split                                                           |
+| And Polynomial Regression Notebooks          |                  |                             |                                                                            |
+| Oct 15                                       | F                | Regression Project          | Regularization, Cross-Validation Notebooks Regression Project              |
+| Oct 16                                       | E                | Regression Project          | Regression Project                                                         |
+| Oct 17                                       | D                | Classification              | Regression Project                                                         |
+| Oct 21                                       | B                | Regression Project          | Regression Project                                                         |
+| Oct 22                                       | A                | Classification              | Regression Project                                                         |
+| Oct 23                                       | F                | Classification              | Naïve Bayes Assignment                                                     |
+| Oct 24                                       | E                | Classification              | Naïve Bayes Problem Set                                                    |
+| Oct 25                                       | D                | Classification              | Logistic Regression Assignment                                             |
+| Oct 28                                       | C                | Classification              | Error Classification Assignment                                            |
+| Oct 29                                       | B                | Classification              | K Nearest Neighbors Assignment                                             |
+| Oct 31                                       | A                | Classification              | Classification Project: College Analysis                                   |
+| Nov 1 – Q1 ends                              | F                | Classification              | Classification Project: College Analysis                                   |
+| Nov 4                                        | E                | Classification              | Classification Project: College Analysis                                   |
+| Nov 5                                        | D                | Classification              | Classification Project: College Analysis                                   |
+| Nov 7                                        | B                | Classification              | Classification Project: College Analysis                                   |
+| Nov 8                                        | A                | Classification              | Classification Project: College Analysis                                   |
+| Nov 11                                       | F                | Classification              | Classification Project: College Analysis                                   |
+| Nov 12                                       | E                | Classification              | Classification Project: College Analysis                                   |
+| Nov 13                                       | D                | Unsupervised Learning       | K Means Clustering Assignment                                              |
+| Nov 15                                       | B                | Linear Algebra              | K Means Clustering Problem Set                                             |
+| Nov 18                                       | A                | Linear Algebra              | Linear Algebra Packet through Page 4                                       |
+| Nov 19                                       | F                |                             | Linear Algebra HW through Page 8                                           |
+| Nov 20                                       | E                |                             | 21-1 No school                                                             |
+| Dec 2                                        | F                | Linear Algebra              | Linear Algebra HW finish through page 16                                   |
+| Dec 3                                        | E                | Linear Algebra              | Linear Algebra HW finish through pg. 19                                    |
+| Dec 4                                        | D                | Linear Algebra              | Linear Algebra HW finish through pg. 20                                    |
+| Dec 6                                        | B                | Linear Algebra              | Linear Algebra HW finish through pg. 24                                    |
+| In class: finish through pg. 28              |                  |                             |                                                                            |
+| Dec 9                                        | A                | Linear Algebra              | Take Home Test Due                                                         |
+| Dec 10                                       | F                | Linear Algebra              | Finish Linear Algebra packet & Image Compression notebook                  |
+| Dec 11                                       | E                | Recommender Systems         | Curse of Dimensionality & PCA Intro Notebook 0                             |
+| Dec 12                                       | D                | Recommender Systems         | Recommender Systems Notebook 1                                             |
+| Dec 16                                       | B                | Recommender Systems         | Netflix Recommender Movie Problem Set Notebook 2                           |
+| Dec 17                                       | A                | Natural Language Processing | NLP Intro Notebook 1                                                       |
+| Dec 18                                       | F                | Natural Language Processing | NLP Applications Notebook 2                                                |
+| Dec 19                                       | E                | Natural Language Processing | Celebrity Gossip & D3 Visualization Notebook 3                             |
+| Dec 20                                       | D                | Natural Language Processing | Winter Break                                                               |
+| Jan 7                                        | B                | Final Project               | Final Project                                                              |
+| Jan 8                                        | A                | Final Project               | Final Project                                                              |
+| Jan 9                                        | F                | Final Project               | Final Project                                                              |
+| Jan 10                                       | E                | Final Project               | Final Project                                                              |
+| Jan 13                                       | D                | Final Project               | Final Project                                                              |
+| Jan 15                                       | B                | Final Project               | Final Project                                                              |
+| Jan 16                                       | A                | Final Project               | Final Project                                                              |
+| Jan 17                                       | F                |                             | 20 MLK day, 21-24 Assessments, 27 no school                                |
+
+
+Here were the materials that I drew heavily from:
 
 - [Andrew Ng's Machine Learning Course](https://www.coursera.org/learn/machine-learning/home/welcome)
 - [Python Data Science Handbook by Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -11,72 +90,3 @@ Some websites that I always find helpful - besides Stack Overflow obviously :) -
 - [Towards Data Science](https://towardsdatascience.com/)
 - [Geeks for Geeks](https://www.geeksforgeeks.org/machine-learning/)
 - [Analytics Vidhya](https://www.analyticsvidhya.com/blog/)
-
-Here is the tentative syllabus:
-
-| Date | Rotation Day | Topic | Homework |
-| --- | --- | --- | --- |
-| Sept 9 | F | What is Machine Learning? |   |
-| Sept 10 | E | Pandas | Download Anaconda and Watch Andrew Ng intro videos. Write discussion post. |
-| Sept 11 | D | Pandas | Pandas Basics Assignment – Stop before Missing Data |
-| Sept 13 | B | Pandas | Pandas Basics Assignment - Finish |
-| Sept 16 | A | Pandas | Pandas Pregnancy Problem Set |
-| Sept 17 | F | Pandas | Rollercoaster Project |
-| Sept 18 | E | Linear Regression | Rollercoaster Project |
-| Sept 19 | D | Linear Regression | Linear Regression Basics Assignment |
-| Sept 23 | B | Gradient Descent | Linear Regression Problem Set |
-| Sept 24 | A | Gradient Descent | Partial Derivatives HW |
-| Sept 25 | F | Gradient Descent | Python Iteration HW |
-| Sept 26 | E | Multiple Regression | Gradient Descent Algorithm HW |
-| Sept 27 | D | Multiple Regression | **No HW Weekend** |
-| Oct 1 | B | Multiple Regression | Categorical Variables Assignment |
-| Oct 2 | A | Regularization | Cars Problem Set |
-| Oct 3 | F | Regularization | Polynomial Regression Assignment |
-| Oct 4 | E | Regression Project | Test/Train/Split Assignment |
-| Oct 7 | D | Regression Project | Regression Project |
-| Oct 9 **Octoberim 10-14 no classes** | B | Regression Project | Regression Project |
-| Oct 15 | F | Regression Project | Regression Project |
-| Oct 16 | E | Classification | Regression Project |
-| Oct 17 | D | Classification | Naïve Bayes Assignment |
-| Oct 21 | B | Classification | Naïve Bayes Problem Set |
-| Oct 22 | A | Classification | Logistic Regression Assignment |
-| Oct 23 | F | Classification | Error Classification Assignment |
-| Oct 24 | E | Classification | K Nearest Neighbors Assignment |
-| Oct 25 | D | Classification Project: College Analysis | K Nearest Neighbors Problem Set |
-| Oct 28 | C | Classification Project: College Analysis | Classification Project: College Analysis |
-| Oct 29 | B | Classification Project: College Analysis | Classification Project: College Analysis |
-| Oct 30 – No class? | A | Classification Project: College Analysis | Classification Project: College Analysis |
-| Oct 31 | A | Unsupervised Learning | Classification Project: College Analysis |
-| Nov 1 – Q1 ends | F | Unsupervised Learning | K Means Clustering Assignment |
-| Nov 4 | E | Linear Algebra | K Means Clustering Problem Set |
-| Nov 5 | D | Linear Algebra | Linear Algebra Packet Page 4 #1 |
-| Nov 7 | B | Linear Algebra | Linear Algebra HW page 4 #2, page 6 #7,8, page 8 #a,b |
-| Nov 8 | A | Linear Algebra | Linear Algebra HW finish through page 11 |
-| Nov 11 | F | Linear Algebra | Linear Algebra pg. 15-16 letters a-d and find inverse of [[1,-2,1],[-1,2,2],[1,0,1]] |
-| Nov 12 | E | Linear Algebra | Linear Algebra pg. 16 #2 and pg. 19 |
-| Nov 13 | D | Linear Algebra | College Rankings Project |
-| Nov 15 | B | Linear Algebra | Open Note Quiz/College Rankings Project |
-| Nov 18 | A | Linear Algebra | College Rankings Project Due |
-| Nov 19 | F |   | Image compression/College Rankings SVD |
-| Nov 20 | E |   | **21-1 No school** |
-| Dec 2 | F | Dimensionality Reduction/PCA |   |
-| Dec 3 | E | Dimensionality Reduction/PCA | Dimensionality Reduction Assignment |
-| Dec 4 | D | Natural Language Processing | Dimensionality Reduction Problem Set |
-| Dec 6 | B | Natural Language Processing | NLP Assignment |
-| Dec 9 | A | Natural Language Processing | NLP Assignment |
-| Dec 10 | F | Natural Language Processing | NLP Problem Set |
-| Dec 11 | E | Recommender Systems | NLP Project |
-| Dec 12 | D | Recommender Systems | Recommender Systems Assignment |
-| Dec 16 | B | Recommender Systems | Recommender Systems Problem Set |
-| Dec 17 | A | Recommender Systems | Netflix Recommender Project |
-| Dec 18 | F | Recommender Systems | Netflix Recommender Project |
-| Dec 19 | E | Recommender Systems | Netflix Recommender Project |
-| Dec 20 | D | Recommender Systems | **Winter Break** |
-| Jan 7 | B | Final Project | Final Project |
-| Jan 8 | A | Final Project | Final Project |
-| Jan 9 | F | Final Project | Final Project |
-| Jan 10 | E | Final Project | Final Project |
-| Jan 13 | D | Final Project | Final Project |
-| Jan 15 | B | Final Project | Final Project |
-| Jan 16 | A | Final Project | Final Project |
-| Jan 17 | F |   | **20 MLK day, 21-24 Assessments, 27 no school** |
