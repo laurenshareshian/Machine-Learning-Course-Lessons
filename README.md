@@ -12,7 +12,7 @@ I taught a semester-long machine learning elective honors course for the first t
 | Sept 18                                      | E                | Pandas                      | Rollercoaster Project                                                      |
 | Sept 19                                      | D                | GitHub & Blog               | Rollercoaster Project                                                      |
 | Sept 23                                      | B                | Linear Regression           | Get GitHub Repo and Jekyll Blog Working & Read two ML ethics articles                                            |
-| Sept 24                                      | A                | Finish Problem Set         | Gradient Descent                             | Problem Set #1-8 |                             |                                                                            |
+| Sept 24                                      | A                | Linear Regression          | Finish Linear Regression Problem Set |                                                                            |
 | Sept 25                                      | F                | Gradient Descent            | Watch GD videos                                                            |
 | Sept 26                                      | E                | Gradient Descent            | Python Iteration HW                                                        |
 | Sept 27                                      | D                | Multiple Regression         | Gradient Descent Algorithm HW                                              |
